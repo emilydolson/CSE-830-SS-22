@@ -1,3 +1,5 @@
+
+* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}
 
 # Documents for CSE 431
@@ -16,155 +18,167 @@ Below are the week-by-week topics that will be covered.  Links will be added at 
 
 # Week 1: Course Introduction
 
-<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/811482/sp/81148200/embedIframeJs/uiconf_id/27551951/partner_id/811482?iframeembed=true&playerId=kaltura_player&entry_id=0_ey527hqd&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=0_ct7zjxj3" width="640" height="396" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
-
 Starting: 9/2
 
-<!--
+**Mandatory videos**: Course Introduction; Why Study Algorithms?
 
-**Pre-class videos**: [Course Introduction](https://mediaspace.msu.edu/media/t/0_tgl55f3m) (19:10); [Why Study Algorithms?](https://mediaspace.msu.edu/media/t/0_zg3ixmwy) (18:30)
+**Optional extra videos**:
+ 
+Instructor Bio:
+ 
+<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/811482/sp/81148200/embedIframeJs/uiconf_id/27551951/partner_id/811482?iframeembed=true&playerId=kaltura_player&entry_id=0_ey527hqd&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=0_ct7zjxj3" width="640" height="396" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
 
-**Optional extra videos**: [Lightcycle Example Problem](https://mediaspace.msu.edu/media/t/0_fx7q8dzg) (7:38); Instructor Bio (coming soon)
-
-**In class**: Walk-through of class rules; overview of the web tools we'll be using; Q&A about videos and class material.
-
-**Out**: [Syllabus](https://mercere99.github.io/CSE-830/syllabus)
+**Out**: [Syllabus](https://mercere99.github.io/CSE-830/syllabus), lecture review assignment #1
 
 ## Week 2: Analytical Frameworks
 
 Week of 9/7
 
-**Pre-class videos**: Asymptotic Notations; Recurrance Relations
+**Mandatory videos**: Asymptotic Notations
 
-**In class**: Experimenting with mathematical frameworks; recurrance proofs
+**In class**: Experimenting with mathematical frameworks
 
-**Out**: Homework Assignment #1 (Due 9/21)
+**Out**: Homework Assignment #1 (Due 9/21), lecture review assignment #2
 
 ## Week 3: Data Structures
 
 Week of 9/14
 
-**Pre-class videos**: Using Arrays and Lists; Binary Trees; Hash Tables; Heaps
+**Mandatory videos**: Using Arrays and Lists; Binary Trees; Hash Tables; Heaps
 
 **In class**: Using common data structures in programming problems.
+
+**Out**: Lecture review assignment #3
 
 ## Week 4: Algorithmic Thinking
 
 Week of 9/21
 
-**Pre-class videos**: Estimating Compute Time; Identifying Problem Information; Problem Solutions
+**Mandatory videos**: Estimating Compute Time; Identifying Problem Information; Problem Solutions
 
 **In class**: Order of Magnitude Problems; Puzzle examples
 
-**Out**: Homework Assignment #2 (Due 10/5)
+**Out**: Homework Assignment #2 (Due 10/5), lecture review assignment #4
 
 ## Week 5: Fundamental Algorithms 1
 
 Week of 9/28
 
-**Pre-class videos**: What is Optimization?; Greedy Algorithms; Proving "correctness"; A Whirlwind Tour of Sorting Algorithms; The Limits of Sorting
+**Mandatory videos**: What is Optimization?; Greedy Algorithms; Proving "correctness"; A Whirlwind Tour of Sorting Algorithms; The Limits of Sorting
 
 **In class**: Review of HW1; Practice Greedy Problems; Building custom data structures.
+
+**Out**: Lecture review assignment #5
 
 ## Week 6: Fundamental Algorithms 2
 
 Week of 10/5
 
-**Pre-class videos**: Types of Algorithmic Inputs; More complex Algorithmic Tools; Random Number Generatores; Statistical Distributions; Probabilistic Algorithms
+**Mandatory videos**: Types of Algorithmic Inputs; More complex Algorithmic Tools; Profiling and Tuning
 
 **In class**: Example Problems
 
-**Out**: Homework Assignment #3 (Due 10/19)
+**Out**: Homework Assignment #3 (Due 10/19), Lecture review assignment #6
 
 ## Week 7: Efficient Code 1
 
 Week of 10/12
 
-**Pre-class videos**: Bit Magic; Writing Efficient Python Code
+**Mandatory videos**: Bit Magic; Writing Efficient Python Code
 
 **In class**: Review of HW2; Example Problems
+
+**Out**: Lecture review assignment #7
 
 ## Week 8: Efficient Code 2
 
 Week of 10/19
 
-**Pre-class videos**: Bool Representations in C++; Compile-Time C++ Optimizations; Memory Management in C++; Other C++ Optimizations; Empirical Tests and Preventative Debugging
+*Mid-term will be 15 minutes scheduled sometime this week*
+
+**Mandatory videos**: Bool Representations in C++; Compile-Time C++ Optimizations; Memory Management in C++; Other C++ Optimizations; Empirical Tests and Preventative Debugging
 
 **In class**: Example Problems
 
-**Out**: Homework Assignment #4 (Due 11/2)
+**Out**: Homework Assignment #4 (Due 11/2), Lecture review assignment #8
 
 ## Week 9: Recursive Techniques
 
 Week of 10/26
 
-**Pre-class videos**: The Intuition behind Recursive Algorithms ; Introduction to Dynamic Programming ; Dynamic Programming vs. Memoization
+**Mandatory videos**: The Intuition behind Recursive Algorithms ; Introduction to Dynamic Programming ; Dynamic Programming vs. Memoization
 
 **In class**: Review of HW3; Example Problems
+
+**Out**: Lecture review assignment #9
 
 ## Week 10:	Dealing with Hard Problems
 
 Week of 11/2
 
-**Pre-class videos**: Complex Dynamic Programming Techinuqes; Brute-Force Approaches to Problem Solving; Branch & Bound Techniques; Polynomial-Time Optimizations on Exponential Algorithms
+**Mandatory videos**: Complex Dynamic Programming Techinuqes; Brute-Force Approaches to Problem Solving; Branch & Bound Techniques; Polynomial-Time Optimizations on Exponential Algorithms
 
 **In class**: Example Problems
 
-**Out**: Homework Assignment #5 (Due 11/16)
+**Out**: Homework Assignment #5 (Due 11/16), Lecture review assignment #10
 
 ## Week 11:	Graph Algorithms 1
 
 Week of 11/9
 
-**Pre-class videos**: Graph Algorithm Overview; Representing and Manipulation Graphs; Traversing Graphs
+**Mandatory videos**: Graph Algorithm Overview; Representing and Manipulation Graphs; Traversing Graphs
 
 **In class**: HW4 Review; Example Problems
+
+**Out**: Lecture review assignment #11
 
 ## Week 12: Graph Algorithms 2
 
 Week of 11/16
 
-**Pre-class videos**: A survey of Graph Algorithms ; Brute-Force Graph Algorithms
+**Mandatory videos**: A survey of Graph Algorithms ; Brute-Force Graph Algorithms
 
 **In class**: Example Problems
 
-**Out**: Homework Assignment #6 (Due 11/30)
+**Out**: Homework Assignment #6 (Due 11/30), Lecture review assignment #12
 
 ## Week 13: Inexact Optimization
 
 Week of 11/23
 
-**Pre-class videos**: Heuristics & Approximation Algorithms; Evolutionary Computation; Search Spaces and Fitness Landscapes
+**PMandatory videos**: Heuristics & Approximation Algorithms; Evolutionary Computation; Search Spaces and Fitness Landscapes
 
 **In class**: HW5 Review; Example Problems
 
-_Note_: No class session on 11/26 (Thanksgiving)
+**Out**: Lecture review assignment #13
 
 ## Week 14: NP Completeness 1
 
 Week of 11/30
 
-**Pre-class videos**: P, NP, and NP-Completeness; Identifying NP-Complete Problems
+**Mandatory videos**: P, NP, and NP-Completeness; Identifying NP-Complete Problems
 
 **In class**: Example Problems
 
-**Out**: Homework Assignment #7 (Due 12/14)
+**Out**: Homework Assignment #7 (Due 12/14), Lecture review assignment #14
 
 ## Week 15: NP Completeness 2
 
 Week of 12/7
 
-**Pre-class videos**: Advanced NP-Completeness Proofs; Cook's Theorem
+**Mandatory videos**: Advanced NP-Completeness Proofs
 
 **In class**: HW 6 Review; Example Problems
+
+**Out**: Lecture review assignment #15
 
 ## Finals Week:	Review of Design Techniques / Special Topics
 
 Week of 12/14
 
-**Pre-class videos**: An overview of Design Techniques; Algorithms for Alternative Models of Computation; Other topics?
+*Final will be 15 minutes scheduled sometime this week*
+
+**Mandatory videos**: An overview of Design Techniques; Algorithms for Alternative Models of Computation; Other topics?
 
 **In class**: Discussion about algorithms, course, and future changes.
 
-
--->
