@@ -1,4 +1,6 @@
 ---
+layout: single
+title: Overview
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
