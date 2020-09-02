@@ -1,3 +1,5 @@
+{:toc}
+
 # Documents for CSE 431
 
 **CSE 431: Algorithm Engineering**
