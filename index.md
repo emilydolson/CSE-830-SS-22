@@ -1,17 +1,18 @@
-# Documents for CSE 830
+# Documents for CSE 431
 
-**CSE 830: Design & Theory of Algorithms**
+**CSE 431: Algorithm Engineering**
 
 Below are the documents and links needed for Fall 2020.
 
-**[Syllabus](https://mercere99.github.io/CSE-830/syllabus)** - provides basic information about the course including how you will be graded.
+**[Syllabus (draft)](https://docs.google.com/document/d/1G2RuJX-hPglPiDFyEGytauunPxQpi-AI4FyKuud73FI/edit?usp=sharing)** - provides basic information about the course including how you will be graded.
 
-**[Slack Discussion Board](https://cse830.slack.com)** a place for asynchronous discussions and Q&A sessions.
+**[Piazza](piazza.com/msu/fall2020/cse431/home)** a place for asynchronous discussions and Q&A sessions.
 
 **Zoom** will be used for all class sessions.  The Zoom link has been e-mailed to all students and can be found pinned to the #general channel in the course Slack.
 
 Below are the week-by-week topics that will be covered.  Links will be added at least 24 hours before the first class each week (and often sooner).  The current week will be in bold in the directory on the left of this page.
 
+<!--
 # Week 1: Course Introduction
 
 Starting: 9/2
@@ -161,8 +162,4 @@ Week of 12/14
 **In class**: Discussion about algorithms, course, and future changes.
 
 
-**Instructor-only Links**:
-
-[editor on GitHub](https://github.com/mercere99/CSE-830/edit/master/docs/index.md)
-
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+-->
