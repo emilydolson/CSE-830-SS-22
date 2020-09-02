@@ -10,7 +10,7 @@ Below are the documents and links needed for Fall 2020.
 
 **[Piazza](piazza.com/msu/fall2020/cse431/home)** a place for asynchronous discussions and Q&A sessions.
 
-**Zoom** will be used for all class sessions.  The Zoom link has been e-mailed to all students and can be found pinned to the #general channel in the course Slack.
+**Zoom** will be used for all class sessions.  The Zoom link has been e-mailed to all students and can be found on Piazza.
 
 Below are the week-by-week topics that will be covered.  Links will be added at least 24 hours before the first class each week (and often sooner).  The current week will be in bold in the directory on the left of this page.
 
