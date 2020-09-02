@@ -14,10 +14,13 @@ Below are the documents and links needed for Fall 2020.
 
 Below are the week-by-week topics that will be covered.  Links will be added at least 24 hours before the first class each week (and often sooner).  The current week will be in bold in the directory on the left of this page.
 
-<!--
 # Week 1: Course Introduction
 
+<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/811482/sp/81148200/embedIframeJs/uiconf_id/27551951/partner_id/811482?iframeembed=true&playerId=kaltura_player&entry_id=0_ey527hqd&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=0_ct7zjxj3" width="640" height="396" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
+
 Starting: 9/2
+
+<!--
 
 **Pre-class videos**: [Course Introduction](https://mediaspace.msu.edu/media/t/0_tgl55f3m) (19:10); [Why Study Algorithms?](https://mediaspace.msu.edu/media/t/0_zg3ixmwy) (18:30)
 
