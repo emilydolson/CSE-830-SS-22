@@ -1,3 +1,3 @@
-theme: jekyll-theme-cayman
+remote_theme: "mmistakes/minimal-mistakes@4.20.1"
 title: CSE 431 - Algorithm Engineering
 description: Materials for the Fall Semester 2020 version of CSE 431 at Michigan State University, taught by Emily Dolson
