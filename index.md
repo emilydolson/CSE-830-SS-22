@@ -16,7 +16,9 @@ Below are the documents and links needed for Fall 2020.
 
 Below are the week-by-week topics that will be covered.  Links will be added at least 24 hours before the first class each week (and often sooner).  The current week will be in bold in the directory on the left of this page.
 
-# Week 1: Course Introduction
+# Schedule
+
+## Week 1: Course Introduction
 
 Starting: 9/2
 
