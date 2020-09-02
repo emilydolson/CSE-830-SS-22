@@ -1,6 +1,8 @@
-
-* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
-{:toc}
+---
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+---
 
 # Documents for CSE 431
 
