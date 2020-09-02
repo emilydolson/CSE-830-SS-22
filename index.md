@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Overview
+title: Course Overview
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
