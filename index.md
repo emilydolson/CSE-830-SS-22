@@ -117,7 +117,7 @@ Binary heaps:
 
 **Optional videos**:
 
-For more details on the Birthday Paradox, check out this blog post/video: https://betterexplained.com/articles/understanding-the-birthday-paradox/
+For more details on the Birthday Paradox, check out [this blog post/video](https://betterexplained.com/articles/understanding-the-birthday-paradox/)
 
 **In class**: Using common data structures in programming problems.
 
