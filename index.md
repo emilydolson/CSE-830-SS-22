@@ -304,6 +304,8 @@ Week of 10/26
 
 **Mandatory videos**: The Intuition behind Recursive Algorithms ; Introduction to Dynamic Programming ; Dynamic Programming vs. Memoization
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ngCos392W4w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **In class**: Review of HW3; Example Problems
 
 **Out**: Lecture review assignment #9
