@@ -22,6 +22,13 @@ Below are the documents and links needed for Fall 2020.
 Below are the week-by-week topics that will be covered.  Links will be added at least 24 hours before the first class each week (and often sooner).  The current week will be in bold in the directory on the left of this page.
 
 
+# Due dates
+
+- Every friday: weekly lecture review
+- Homework: 11/4, 11/16, 11/30, 12/14
+- Final: Scheduled individually the week of 12/14
+
+
 # Current course content
 
 {% for post in site.weeks %}
@@ -33,7 +40,7 @@ Below are the week-by-week topics that will be covered.  Links will be added at 
   {% assign postWeek = post.date | date: "%W" | minus: 0 %}
 
   {% if postWeek == last_week %}
-   <h2>Last week: <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
+   <h2>Last week: <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
   {% endif %}
 
   {% if postWeek == this_week %}
