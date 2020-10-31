@@ -44,11 +44,11 @@ Below are the week-by-week topics that will be covered.  Links will be added at 
   {% endif %}
 
   {% if postWeek == this_week %}
-   <h2>This week: <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
+   <h2>This week: <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
   {% endif %}
 
  {% if postWeek == next_week %}
-   <h2>Next week: <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
+   <h2>Next week: <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
   {% endif %}
 
 
