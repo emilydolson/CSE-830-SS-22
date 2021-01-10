@@ -1,9 +1,9 @@
 remote_theme: "mmistakes/minimal-mistakes@4.20.1"
-title: CSE 431 - Algorithm Engineering
-subtitle: Fall Semester 2020
-description: Materials for the Fall Semester 2020 version of CSE 431 at Michigan State University, taught by Emily Dolson
+title: CSE 830 - Algorithms
+subtitle: Spring Semester 2021
+description: Materials for the Spring Semester 2021 version of CSE 830 at Michigan State University, taught by Emily Dolson
 plugins: [jekyll-include-cache]
-repository: "emilydolson/CSE-431-FS-2020"
+repository: "emilydolson/CSE-830-SS-2021"
 search: true
 
 author:
