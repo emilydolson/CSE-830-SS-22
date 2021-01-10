@@ -1,2 +1,2 @@
-# CSE-431
-Code and course material for MSU's "CSE 431: Algorithm Engineering" 
+# CSE-830
+Code and course material for MSU's "CSE 830: Algorithms" 
