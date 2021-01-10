@@ -7,9 +7,9 @@ toc_icon: "cog"
 author_info: true
 ---
 
-# Information for CSE 431
+# Information for CSE 830
 
-**CSE 431: Algorithm Engineering**
+**CSE 830: Algorithms**
 
 Below are the documents and links needed for Fall 2020.
 
