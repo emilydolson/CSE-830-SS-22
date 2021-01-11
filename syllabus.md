@@ -13,13 +13,8 @@ toc_icon: "cog"
 - E-mail: dolsonem@cse.msu.edu (course-related contact should be through Piazza)
 - Office: EB 3582 (but I’ll be working from home this semester)
         
-## Teaching Assistants:    
-- Vincent Ragusa (pronouns: he/him)
-- Ali Saffary (pronouns: he/him)
-
 ## Office Hours:     
-- Dolson – Mondays 4:20pm (after class, in class zoom room) and by appointment.
-- Saffary – M/W/F 10:00 am - 11:00 am (link to Zoom room on Piazza)  
+- Dolson – Tuesdays 11:40am (after class, in class zoom room) and by appointment.
 
 ## Textbook: 
 
@@ -27,13 +22,13 @@ There are no required textbooks for this course. If you would like an additional
 
 ## Meeting time: 
 
-M/W 3pm-4:20, Zoom (link sent by e-mail and on Piazza)
+T/Th 10:20am-11:40am EST/EDT, Zoom (link sent by e-mail and on Piazza)
 
 ## Credit hours: 3
 
 ## Pre-reqs: 
 
-CSE 331; Basic fluency in C++ and Python, common data structures, and recursion.
+No explicit pre-requisites, but it is expected that you are comfortable programming in at least one language (ideally Python or C++) and that you are famliiar with basic ideas related to data structures and analysis of algorithmic efficiency. We will review these topics quickly at the beginning of class.
 
 ## Description: 
 
@@ -48,7 +43,7 @@ Internet connection, computer, ability to access MediaSpace, Piazza, and Mimir. 
 This course will be delivered completely online. Synchronous meetings will be provided, but students are also allowed to take the course in an asynchronous format. We will use the following platforms:
 - Course website as an index for all course materials
 - [Mimir](https://class.mimir.io) for homework assignments
-- [Piazza](https://piazza.com/class/kdj21kxhup2xv) for all discussions outside of class time
+- [Piazza](https://piazza.com/class/kjt3tx6quzy3g7) for all discussions outside of class time
 - Zoom (link e-mailed and on Piazza) for all synchronous class sessions and office hours. If you need help using Zoom, see this resource: http://www.cse.msu.edu/Students/Current_Undergrad/UsingZoom.php
 
 ## Class Recordings:  
@@ -60,25 +55,23 @@ Note that the above restrictions apply only to recordings of class sessions. All
 
 ## Grading: 
 
-60% Homeworks ; 20% Lecture reviews; 10% Midterm Exam ; 10% Final Exam
+80% Homeworks ; 20% Lecture reviews;
 
 ## Homework assignments
 
-There will be six homework assignments, each worth 10% of your final grade.  Assignments will consist of programming projects, with occasional mathematical or short-answer questions.  You must solve the homework on your own.  You may not share code or look at other students’ code. That said, asking questions and discussing higher-level concepts on Piazza is highly encouraged. The best way to understand the subtleties of algorithmic problems is to argue about how to solve them. 
+There will be six homework assignments, each worth 10%-15% of your final grade.  Assignments will consist of programming projects, with occasional mathematical or short-answer questions.  You must solve the homework on your own.  You may not share code or look at other students’ code. That said, asking questions and discussing higher-level concepts on Piazza is highly encouraged. The best way to understand the subtleties of algorithmic problems is to argue about how to solve them. 
 All assignments will be due at 11:59pm Michigan time on the due date. You will lose 10% off your maximum grade per day late, to a cap of five days (and 50% off), after which it will not be accepted.  We do understand that unexpected events befall even the most dedicated student, so we will provide 5 free late days that can be used on a single assignment or spread across assignments without a penalty. Do not waste this extension or feel obligated to use it; the goal is for it to cover all unforeseen circumstances. 
 
 ## Lecture review assignments
 
 There will be 15 lecture review assignments, each worth 1% - 2% of your grade. These will be due every friday at 11:59pm Michigan time. They will be a mix of multiple choice and short answer questions (no programming) covering the material in the lectures for the week. These assignments are intended to be quick (assuming you paid attention to the lectures) and serve as a way for both you and us to confirm that you’re getting the intended key information out of the lectures. These assignments may not be turned in late, but your lowest 2 scores will be dropped.
 
-## Exams
-
-There will be two exams (a midterm and a final). One week before each exam, we will provide a detailed scoring guide and description of the possible questions so that you will know exactly what to expect.  Exams will consist of a 15 minute conversation via Zoom with the instructor or a TA. We know this exam format may be new to many of you, but given the remote format of the course we think it is the best option (for those of you hoping to get a software development job in industry, it will also be good practice for technical interviews). Our goal is to do everything we can to minimize the stress associated with this exam format - note that each exam only accounts for 10% of your final grade. That said, note that if you fail an exam we may schedule a follow-up in which we audit some of your homework solutions to ensure that they are your own work.
-
 ## Grading
 
-We will determine your final grade based on your scores on the homework assignments, quizzes and exams, as described above. By default, you need 90% of the points to receive a 4.0, 85% for a 3.5, 80% for a 3.0, 75% for a 2.5, 70% for a 2.0, 65% for a 1.5, and 60% for a 1.0.  We reserve the right to adjust these numbers later in the term if needed. 
+We will determine your final grade based on your scores on the homework assignments, as described above. By default, you need 90% of the points to receive a 4.0, 85% for a 3.5, 80% for a 3.0, 75% for a 2.5, 70% for a 2.0, 65% for a 1.5, and 60% for a 1.0.  We reserve the right to adjust these numbers later in the term if needed. 
+
 Note that at the end of the semester we often receive requests from students with borderline scores to be bumped up to the next letter grade. In order to do this fairly, we need to have some additional piece of evidence beyond assignments and exams that suggests that you have mastered the material. The most likely way for you to demonstrate this is through participation. If you participate in the synchronous portion of class or on Piazza, you provide us with another source of information as to how well you are learning the material, and how much effort you are putting into the course.  We can use this information to help counterbalance a difficulty with exams or assignments.  Let's have an active class!  Class participation will never harm your grade; always ask any questions you may have about the material.  Likewise, getting “Good Question” or “Good Answer” flags on Piazza is another source of information for us to help raise your grade.
+
 Academic Dishonesty: Because a primary goal of this course is to teach professionalism, any academic dishonesty will be viewed as evidence that this goal has not been achieved, and will be grounds for receiving a failing grade on the assignment, the exam, or in the course as a whole.   Examples of academic dishonesty include (but are not limited to):
 - Copying another student’s code or exam answers.
 - Using code implemented by someone else to solve the specific assigned question (i.e., don’t get someone else to do your project for you!)
@@ -97,11 +90,6 @@ The goal of this class is for you to learn how to effectively design and impleme
 - Inform Your Instructor of Any Accommodations Needed
 - Michigan State University is committed to providing equal opportunity for participation in all programs, services and activities. Requests for accommodations by persons with disabilities may be made by contacting the Resource Center for Persons with Disabilities at 517-884-RCPD or on the web at rcpd.msu.edu. Once your eligibility for an accommodation has been determined, you will be issued a verified individual services accommodation (“VISA”) form. Please present this form to me at the start of the term and/or two weeks prior to the accommodation date (test, project, etc). Requests received after this date will be honored whenever possible.
 
-## Drops and Adds
-
-The last day to add this course is the end of the first week of classes. The last day to drop this course with a 100 percent refund and no grade reported is 9/28/20 (8:00 PM). The last day to drop this course with no refund and no grade reported is 10/21/20 (8:00 PM). You should immediately make a copy of your amended schedule to verify that you have added or dropped this course.  The details about the academic calendar can be found at https://reg.msu.edu/ROInfo/Calendar/Academic.aspx.
-
-Tuition refund period Details can be found at https://reg.msu.edu/ROInfo/Calendar/Academic.aspx
 
 ## Religious observance: 
 
