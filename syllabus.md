@@ -1,6 +1,6 @@
 ---
 layout: single
-title: CSE 431 Syllabus
+title: CSE 830 Syllabus
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
@@ -59,7 +59,7 @@ Note that the above restrictions apply only to recordings of class sessions. All
 
 ## Homework assignments
 
-There will be six homework assignments, each worth 10%-15% of your final grade.  Assignments will consist of programming projects, with occasional mathematical or short-answer questions.  You must solve the homework on your own.  You may not share code or look at other students’ code. That said, asking questions and discussing higher-level concepts on Piazza is highly encouraged. The best way to understand the subtleties of algorithmic problems is to argue about how to solve them. 
+There will be seven homework assignments, each worth 10%-15% of your final grade.  Assignments will consist of programming projects, with occasional mathematical or short-answer questions.  You must solve the homework on your own.  You may not share code or look at other students’ code. That said, asking questions and discussing higher-level concepts on Piazza is highly encouraged. The best way to understand the subtleties of algorithmic problems is to argue about how to solve them. 
 All assignments will be due at 11:59pm Michigan time on the due date. You will lose 10% off your maximum grade per day late, to a cap of five days (and 50% off), after which it will not be accepted.  We do understand that unexpected events befall even the most dedicated student, so we will provide 5 free late days that can be used on a single assignment or spread across assignments without a penalty. Do not waste this extension or feel obligated to use it; the goal is for it to cover all unforeseen circumstances. 
 
 ## Lecture review assignments
