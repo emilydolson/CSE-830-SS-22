@@ -14,7 +14,7 @@ toc_icon: "cog"
 - Office: EB 3582 (but I’ll be working from home this semester)
         
 ## Office Hours:     
-- Dolson – Tuesdays 11:40am (after class, in class zoom room) and by appointment.
+- Tuesdays 11:40am (after class, in class zoom room) and by appointment.
 
 ## Textbook: 
 
