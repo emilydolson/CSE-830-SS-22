@@ -1,6 +1,6 @@
 ---
-title: "Week 6: Fundamental Algorithms 2"
-date: 2019-10-05 00:00:00
+title: "Week 4: Fundamental Algorithms 2"
+date: 2019-02-15 00:00:00
 ---
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
@@ -27,6 +27,10 @@ date: 2019-10-05 00:00:00
 
 <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/811482/sp/81148200/embedIframeJs/uiconf_id/27551951/partner_id/811482?iframeembed=true&playerId=kaltura_player&entry_id=1_ki7b8jfl&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_x57gaqkk" width="640" height="396" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
 
-# In class: Example Problems
+# In class: 
 
-# Out: Homework Assignment #3 (Due 10/19), Lecture review assignment #6
+Reivew of Homework 1, design custom data structures for challenging problem, example problems.
+
+# Out: 
+
+Lecture review assignment #4
