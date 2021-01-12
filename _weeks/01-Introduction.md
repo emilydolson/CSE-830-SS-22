@@ -1,5 +1,5 @@
 ---
-title: "Week 1: Pre-course review"
+title: "Week 0: Pre-course review"
 date: 2019-01-18 00:00:00
 ---
 
