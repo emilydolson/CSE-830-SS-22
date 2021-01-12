@@ -9,7 +9,7 @@ author_info: true
 
 # Information for CSE 830
 
-**CSE 830: Algorithms**
+**CSE 830: Design and Theory of Algorithms**
 
 Below are the documents and links needed for Spring 2021.
 
