@@ -31,9 +31,9 @@ Below are the week-by-week topics that will be covered.
 
 {% for post in site.weeks %}
 
-  {% assign this_week = "now" | date: "%W" | minus: 0 %}
-  {% assign last_week = "now" | date: "%W" | minus: 1 %}
-  {% assign next_week = "now" | date: "%W" | plus: 1 %}
+  {% assign this_week = "now" | date: "%W" | minus: 1 %}
+  {% assign last_week = "now" | date: "%W" | minus: 2 %}
+  {% assign next_week = "now" | date: "%W" | plus: 0 %}
 
   {% assign postWeek = post.date | date: "%W" | minus: 0 %}
 
