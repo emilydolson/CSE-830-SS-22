@@ -25,7 +25,7 @@ Below are the week-by-week topics that will be covered.
 # Due dates
 
 - Every friday: weekly lecture review
-- Homework: 2/2, 2/16, 3/2, 3/16, 3/30, 4/13, 4/27
+- Homework: 2/2, 2/16, 3/5, 3/16, 3/30, 4/13, 4/27
 
 # Current course content
 
