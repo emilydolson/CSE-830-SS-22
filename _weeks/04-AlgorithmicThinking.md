@@ -1,5 +1,5 @@
 ---
-title: "Week 3: Algorithmic Thinking"
+title: "Week 2: Algorithmic Thinking"
 date: 2019-02-01 00:00:00
 ---
 
