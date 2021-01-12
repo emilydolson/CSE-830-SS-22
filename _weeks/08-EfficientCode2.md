@@ -1,9 +1,9 @@
 ---
 title: "Week 6: Efficient Code 2"
-date: 2019-03-01 00:00:00
+date: 2019-02-22 00:00:00
 ---
 
-**Week of {{ page.date | date: "%-m/%-d" }} **
+**Week of {{ page.date | date: "%-m/%-d" }}**
 
 # Mandatory videos
 
