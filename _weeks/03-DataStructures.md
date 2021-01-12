@@ -1,5 +1,5 @@
 ---
-title: "Week 2: Data Structures"
+title: "Week 1: Data Structures"
 date: 2019-01-25 00:00:00
 ---
 
