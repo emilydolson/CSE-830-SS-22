@@ -1,6 +1,6 @@
 ---
-title: "Week 3: Data Structures"
-date: 2019-09-14 00:00:00
+title: "Week 2: Data Structures"
+date: 2019-01-18 00:00:00
 ---
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
@@ -35,6 +35,8 @@ date: 2019-09-14 00:00:00
 
 For more details on the Birthday Paradox, check out [this blog post/video](https://betterexplained.com/articles/understanding-the-birthday-paradox/)
 
-# In class: Using common data structures in programming problems
+# In class: 
 
-# Out: Lecture review assignment #3
+Course introduction, review of syllabus, practice problems on asymptotic notation, using common data structures in programming problems
+
+# Out: Lecture review assignment #1, Homework #1
