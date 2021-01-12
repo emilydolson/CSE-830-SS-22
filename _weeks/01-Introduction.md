@@ -1,6 +1,6 @@
 ---
 title: "Week 0: Pre-course review"
-date: 2019-01-11 00:00:00
+date: 2019-01-11 12:00:00
 ---
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
