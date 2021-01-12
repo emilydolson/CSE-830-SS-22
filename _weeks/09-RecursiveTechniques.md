@@ -5,6 +5,8 @@ date: 2019-03-01 12:00:00
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
 
+No class week of 3/2 - university break
+
 # Mandatory videos
 
 ## Framing problems recursively
