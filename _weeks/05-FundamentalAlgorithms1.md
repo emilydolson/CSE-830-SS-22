@@ -1,6 +1,6 @@
 ---
 title: "Week 3: Fundamental Algorithms 1"
-date: 2019-02-08 00:00:00
+date: 2019-02-01 12:00:00
 ---
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
