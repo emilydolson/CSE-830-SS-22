@@ -1,6 +1,6 @@
 ---
-title: "Week 15: NP Completeness 2"
-date: 2019-12-07 00:00:00
+title: "Week 13: NP Completeness 2"
+date: 2019-04-12 00:00:00
 ---
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
@@ -22,6 +22,10 @@ date: 2019-12-07 00:00:00
 ## [The Cook-Levin Theorem for Proving SAT is the Hardest Problem in NP](https://www.youtube.com/watch?v=dKS4iDWQVnI&list=PLS4py2LeEJNDzezHTc0G3EsttsoKWQhGz) (14:17 - across 6 short videos)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mIfhKFm1p-M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# In class: HW 6 Review; Example Problems
+# In class: 
 
-# Out: Lecture review assignment #15
+Example Problems
+
+# Out: 
+
+Hoomework #7, Lecture review assignment #13
