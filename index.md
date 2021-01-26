@@ -51,3 +51,9 @@ Below are the week-by-week topics that will be covered.
 
 
 {% endfor %}
+
+# Reference material
+
+## Data structure runtimes table
+
+![Table of big-O time complexities for common operations on various data structures](DataStructureRuntimes.png)
