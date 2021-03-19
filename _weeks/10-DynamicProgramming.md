@@ -72,7 +72,7 @@ Dynamic programming is one of the most challenging topics we'll be covering this
 - There are some in the course recordings videos for the days we discussed dynamic programming
 - [Finding numbers that add up to 16](https://www.youtube.com/watch?v=nqlNzOcnCfs)
 - [Maximum sum of a rectangle in a matrix](https://youtu.be/-FgseNO-6Gk?t=67)
-- [Egg drop problem](https://youtu.be/iOaRjDT0vjc)
+- [Egg drop problem](https://youtu.be/iOaRjDT0vjc) ([other students have also recoomended this written guide to the egg drop problem]( https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11/)
 - [Largest square of ones](https://www.youtube.com/watch?v=FO7VXDfS8Gk)
 
 
