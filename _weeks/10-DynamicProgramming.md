@@ -42,19 +42,19 @@ Dynamic programming is one of the most challenging topics we'll be covering this
 
 ## Steps in DP
 
-1. Figure out how to write a recursive solution to your problem.
+1) Figure out how to write a recursive solution to your problem.
 
   - 1.1. Figure out how to break your problem down into smaller sub-problems
   - 1.2. Figure out your base case (how do you know when you've found the smallest possible subproblem, and what is the answer to it?)
   - 1.3. Figure out your recursion step (what do you have to do to a solution to a smaller version of this problem to make it be a solution to a bigger version of it?)
   - 1.4. Write the code
 
-2. Figure out which values you would need to call your recursive solution on in order to build your way up to an answer to the whole thing. For example, if the input to your function is a number, one likely scenario is that you need to call your recursive function on all numbers between that value and 0 in order to have all of the building blocks you need to solve it for the number you actually care about. If the input is 2 numbers, you might need to solve it for all combinations of values less than each of those numbers. If the input is a sequence, you might need to solve it for sub-sequences of that sequence.
+2) Figure out which values you would need to call your recursive solution on in order to build your way up to an answer to the whole thing. For example, if the input to your function is a number, one likely scenario is that you need to call your recursive function on all numbers between that value and 0 in order to have all of the building blocks you need to solve it for the number you actually care about. If the input is 2 numbers, you might need to solve it for all combinations of values less than each of those numbers. If the input is a sequence, you might need to solve it for sub-sequences of that sequence.
 
   - 2.1. Make sure there aren't too many of them (this will define the memory complexity of our solution; we generally say there are too many if the memory complexity is exponential (e.g. O(2^n)).
   - 2.2. Since each of these calls probably build on each other, figure out what order you need to know the numbers in so that you always have all the numbers you need by the time you need them.
 
-3. Convert your recursive solution into a dynamic programming solution.
+3) Convert your recursive solution into a dynamic programming solution.
 
   - 3.1 Replace your base case with building a table and putting whatever value you would have returned for your base case into the position in the table that corresponds to the arguments that trigger your base case. For example, if your base case is that when your input value equals 0 you return the value 10, you would put 10 into the 0th position of DP table.
   - 3.2. Put most of the body of your function inside a loop (sometimes multiple nested loops) that goes through all of the arguments you would have recursively called the function on, in the order that you determined in step 2. If you've got multiple arguments, you probably need a loop for each one.
