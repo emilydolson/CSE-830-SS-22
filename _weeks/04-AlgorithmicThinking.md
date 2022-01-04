@@ -42,8 +42,8 @@ More data structures practice. Order of Magnitude Problems; Puzzle examples
 
 # Due:
 
-Homework 1 (1/25), Lecture Review 3
+Homework 1 (1/25), Lecture Review 3 (Friday)
 
 # Out: 
 
-Lecture review assignment #3 (Friday)
+Lecture review assignment #3, Homework 2 (2/8)
