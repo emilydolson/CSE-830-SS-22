@@ -1,6 +1,6 @@
 ---
 title: "Week 2: Data Structures"
-date: 2019-01-18 12:00:00
+date: 2019-01-17 12:00:00
 ---
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
