@@ -1,11 +1,11 @@
 ---
-title: "Week 1: Pre-course review"
+title: "Week 1: Review of Algorithm Analysis"
 date: 2019-01-10 12:00:00
 ---
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
 
-This week, we'll review big-O notation, asymptotic analysis, and reccurence relations. Most of you should already be familiar with these ideas, but we will be using them a lot over the course of the semester, so I want to make sure they're fresh in your minds. We will also practice these concepts in class.
+This week, we'll review big-O notation, asymptotic analysis, and reccurence relations. Most of you are probably already familiar with these ideas, but we will be using them a lot over the course of the semester, so I want to make sure they're fresh in your minds. We will also practice these concepts in class.
 
 # Mandatory videos
 
