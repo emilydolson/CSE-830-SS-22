@@ -11,7 +11,7 @@ author_info: true
 
 **CSE 830: Design and Theory of Algorithms**
 
-Below are the documents and links needed for Spring 2021.
+Below are the documents and links needed for Spring 2022.
 
 **[Syllabus](syllabus.html)** - provides basic information about the course including how you will be graded.
 
@@ -25,7 +25,8 @@ Below are the week-by-week topics that will be covered.
 # Due dates
 
 - Every friday: weekly lecture review
-- Homework: 2/2, 2/16, 3/5, 3/16, 3/30, 4/13, 4/27
+- Homework: 1/25, 2/8, 2/22, 3/15, 3/29, 4/12, 4/26
+- Take-home final: 5/6
 
 # Current course content
 
