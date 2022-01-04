@@ -46,4 +46,4 @@ Homework 1 (1/25), Lecture Review 3 (Friday)
 
 # Out: 
 
-Lecture review assignment #3, Homework 2 (2/8)
+Lecture review assignment #3, Homework 2 (due 2/8)
