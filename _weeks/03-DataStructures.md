@@ -55,3 +55,8 @@ Course introduction, review of syllabus, practice problems on asymptotic notatio
 # Out: 
 
 Lecture review assignment #2
+
+
+# Due: 
+
+Lecture review assignment #2
