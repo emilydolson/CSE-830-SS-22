@@ -70,4 +70,4 @@ Code for this week is available [here](https://github.com/emilydolson/CSE-830-SS
 
 # Out: 
 
-Syllabus
+Syllabus, Lecture review assignment #1 (due Friday), Homework #1 (due 1/25)
