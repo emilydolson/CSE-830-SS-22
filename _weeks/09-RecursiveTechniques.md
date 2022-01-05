@@ -1,6 +1,6 @@
 ---
 title: "Week 7: Recursive Techniques + Intro to Dynamic Programming"
-date: 2019-03-01 12:00:00
+date: 2019-02-28 12:00:00
 ---
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
