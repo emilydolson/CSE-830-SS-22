@@ -1,6 +1,6 @@
 ---
 title: "Week 13: NP Completeness 2"
-date: 2019-04-12 00:00:00
+date: 2019-04-18 00:00:00
 ---
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
