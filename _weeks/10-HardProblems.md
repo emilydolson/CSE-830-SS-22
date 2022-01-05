@@ -1,6 +1,6 @@
 ---
 title: "Week 9: Dealing with Hard Problems (brute force + approximation)"
-date: 2019-03-15 12:00:00
+date: 2019-03-21 12:00:00
 ---
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
