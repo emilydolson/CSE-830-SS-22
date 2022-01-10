@@ -8,13 +8,20 @@ toc_icon: "cog"
 
 # General information:
 
-## Instructor: Emily Dolson
+## Instructors: 
+
+### Emily Dolson
 - Pronouns: she/her
 - E-mail: dolsonem@cse.msu.edu (course-related contact should be through Piazza)
-- Office: EB 3582 (but I’ll be working from home this semester)
-        
+- Office: EB 3582 (but I’ll be working from home for now)
+
+### Acacia Ackles
+- Pronouns: she/they
+- E-mail: alackles@msu.edu (course-related contact should be through Piazza)
+
+
 ## Office Hours:     
-- Tuesdays 11:40am (after class, in class zoom room) and by appointment.
+- Tuesdays 11:40am (after class, in class zoom room or physical room) and by appointment.
 
 ## Textbook: 
 
@@ -55,11 +62,11 @@ Note that the above restrictions apply only to recordings of class sessions. All
 
 ## Grading: 
 
-80% Homeworks ; 20% Lecture reviews;
+70% Homeworks ; 20% Lecture reviews; 10% Take-home final
 
 ## Homework assignments
 
-There will be seven homework assignments, each worth 10%-15% of your final grade.  Assignments will consist of programming projects, with occasional mathematical or short-answer questions.  You must solve the homework on your own.  You may not share code or look at other students’ code. That said, asking questions and discussing higher-level concepts on Piazza is highly encouraged. The best way to understand the subtleties of algorithmic problems is to argue about how to solve them. 
+There will be seven homework assignments, each worth 10%-15% of your final grade.  Assignments will consist of programming projects, with occasional mathematical or written questions. You must solve the homework on your own. You may not share code or look at other students’ code. That said, asking questions and discussing higher-level concepts on Piazza is highly encouraged. The best way to understand the subtleties of algorithmic problems is to argue about how to solve them. 
 All assignments will be due at 11:59pm Michigan time on the due date. You will lose 10% off your maximum grade per day late, to a cap of five days (and 50% off), after which it will not be accepted.  We do understand that unexpected events befall even the most dedicated student, so we will provide 5 free late days that can be used on a single assignment or spread across assignments without a penalty. Do not waste this extension or feel obligated to use it; the goal is for it to cover all unforeseen circumstances. 
 
 ## Lecture review assignments
@@ -83,6 +90,10 @@ Academic Dishonesty: Because a primary goal of this course is to teach professio
 # General Notes
 
 The goal of this class is for you to learn how to effectively design and implement algorithms. If anything is coming in your way of that goal, please talk with us about it. We plan to keep the class flexible to the learning styles that seem to work best for the students, so feedback is always appreciated.
+
+## COVID
+
+Obviously, this semester is starting off on a somewhat uncertain foot. In accordance with MSU policy, we will conduct this class remotely (via Zoom) for the first three weeks. If MSU chooses to resume in-person classes, we will begin having in person class meetings. In this event, all in-person classes will also be streamed over Zoom, to accomodate any students who are unable or uncomfortable to attend class in person. We also recognize that synchronous Zoom classes are not the ideal format for many students. Due to the pandemic, we have previously recorded videos covering the entire content of this class. If you would prefer to take the class asynchonously by simply watching these videos and doing the homework, you are welcome to do so.
 
 ## Policies:
 
