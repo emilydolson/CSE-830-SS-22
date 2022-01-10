@@ -15,7 +15,7 @@ Below are the documents and links needed for Spring 2022.
 
 **[Syllabus](syllabus.html)** - provides basic information about the course including how you will be graded.
 
-**[Piazza](https://piazza.com/class/kjt3tx6quzy3g7)** a place for asynchronous discussions and Q&A sessions.
+**[Piazza](https://piazza.com/class/ky8ltkngb2bf2)** a place for asynchronous discussions and Q&A sessions.
 
 **Zoom** will be used for all class sessions.  The Zoom link has been e-mailed to all students and can be found on Piazza.
 
