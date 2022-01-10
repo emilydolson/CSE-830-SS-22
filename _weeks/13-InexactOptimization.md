@@ -1,6 +1,6 @@
 ---
 title: "Week 15: Wrap up"
-date: 2019-04-18 00:00:00
+date: 2019-04-25 00:00:00
 ---
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
