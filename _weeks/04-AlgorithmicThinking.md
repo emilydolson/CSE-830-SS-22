@@ -5,7 +5,7 @@ date: 2019-01-24 12:00:00
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
 
-# Mandatory videos
+# Videos
 
 ## For Tuesday
 
