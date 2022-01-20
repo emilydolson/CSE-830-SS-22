@@ -5,9 +5,7 @@ date: 2019-01-17 12:00:00
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
 
-# Mandatory videos
-
-These videos should also be review for most of you (especially the first and maybe second one). You are responsible for knowing all of the material in them, but if you're already comfortable with this material it's all right if you skip them. We won't discuss any of these videos until the second class of this week (the first one will be introducing the class and reviewing last week's material).
+# Videos
 
 ## For Tuesday
 
@@ -49,8 +47,7 @@ Code for this video is available [here](https://github.com/emilydolson/CSE-830-S
 For more details on the Birthday Paradox, check out [this blog post/video](https://betterexplained.com/articles/understanding-the-birthday-paradox/)
 
 # In class: 
-
-Course introduction, review of syllabus, practice problems on asymptotic notation, using common data structures in programming problems
+Common data structures in programming problems
 
 # Out: 
 
