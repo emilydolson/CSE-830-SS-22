@@ -1,5 +1,5 @@
 ---
-title: "Week 13: NP Completeness 2"
+title: "Week 14: NP Completeness 2"
 date: 2019-04-18 00:00:00
 ---
 
