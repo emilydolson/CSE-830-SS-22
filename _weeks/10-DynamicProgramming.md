@@ -1,5 +1,5 @@
 ---
-title: "Week 8: Dynamic Programming"
+title: "Week 9: Dynamic Programming"
 date: 2019-03-14 12:00:00
 ---
 
