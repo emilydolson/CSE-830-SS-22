@@ -1,5 +1,5 @@
 ---
-title: "Week 9: Dealing with Hard Problems (brute force + approximation)"
+title: "Week 10: Dealing with Hard Problems (brute force + approximation)"
 date: 2019-03-21 12:00:00
 ---
 

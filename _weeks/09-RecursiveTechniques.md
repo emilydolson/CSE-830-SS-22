@@ -1,5 +1,5 @@
 ---
-title: "Week 7: Recursive Techniques + Intro to Dynamic Programming"
+title: "Week 8: Recursive Techniques + Intro to Dynamic Programming"
 date: 2019-02-28 12:00:00
 ---
 
