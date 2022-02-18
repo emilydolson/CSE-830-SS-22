@@ -1,19 +1,26 @@
+# Middle Squares implementation
 class MiddleSquare():
+    # constructor
     def __init__(self, seed):
         self.seed = seed
 
+    # random number call
     def get_rand(self):
-        self.seed *= self.seed
+        self.seed *= self.seed 
         self.seed = (self.seed // 1000) % 1000000
-        return self.seed
+        return self.seed 
 
+
+# Linear Congruential Generator
 class LCG():
+    # constructor
     def __init__(self, seed):
-        self.seed = seed 
+        self.seed = seed
         self.a = 21
         self.c = 91
-        self.m = 1000000
+        self.m = 10000000
 
+    # random number call
     def get_rand(self):
         self.seed = (self.a * self.seed + self.c) % self.m
         return self.seed
@@ -26,24 +33,32 @@ def repeat_time(rng):
         seen.add(rng.seed)
         rng.get_rand()
         count += 1
+    
     return count
 
 def main():
-    m_rng = MiddleSquare(3469036308563)
+    # middle squares
+    ms_rng = MiddleSquare(1265489751425469)
     print("Middle squares:")
-    print(m_rng.get_rand())
-    print(m_rng.get_rand())
-    print(m_rng.get_rand())
-    print(m_rng.get_rand())
-    print("Repeat time:", repeat_time(m_rng))
+    print(ms_rng.get_rand())
+    print(ms_rng.get_rand())
+    print(ms_rng.get_rand())
+    print(ms_rng.get_rand())
+    print("Time to repeat: ", repeat_time(ms_rng))
 
-    lcg_rng = LCG(2382530825308253082)
-    print("LCG:")
+    # lcg
+    lcg_rng = LCG(1265489751425469)
+    print("LCG: ")
     print(lcg_rng.get_rand())
     print(lcg_rng.get_rand())
     print(lcg_rng.get_rand())
     print(lcg_rng.get_rand())
-    print("Repeat time:", repeat_time(lcg_rng))
+    print(lcg_rng.get_rand())
+    print(lcg_rng.get_rand())
+    print(lcg_rng.get_rand())
+    print(lcg_rng.get_rand())
+    print(lcg_rng.get_rand())
+    print("Time to repeat: ", repeat_time(lcg_rng))
 
 if __name__ == "__main__":
     main()
