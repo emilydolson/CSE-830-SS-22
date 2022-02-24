@@ -34,6 +34,7 @@ date: 2019-02-21 00:00:00
 # Profiling resources
 
 - [gprof visualizer](https://github.com/jrfonseca/gprof2dot)
+- [steps for using gprof](https://users.cs.duke.edu/~ola/courses/programming/gprof.html)
 - [snakeviz](github.io/snakeviz/)
 
 
