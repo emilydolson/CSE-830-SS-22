@@ -1,11 +1,11 @@
 ---
-title: "Week 2: Algorithmic Thinking"
-date: 2019-01-25 12:00:00
+title: "Week 3: Algorithmic Thinking"
+date: 2019-01-24 12:00:00
 ---
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
 
-# Mandatory videos
+# Videos
 
 ## For Tuesday
 
@@ -40,4 +40,10 @@ date: 2019-01-25 12:00:00
 
 More data structures practice. Order of Magnitude Problems; Puzzle examples
 
-# Out: Lecture review assignment #2
+# Due:
+
+Homework 1 (1/25), Lecture Review 3 (Friday)
+
+# Out: 
+
+Lecture review assignment #3, Homework 2 (due 2/8)
