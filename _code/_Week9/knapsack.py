@@ -23,26 +23,21 @@ def knapsack_recur(weights, values, w):
     #return max(included, excluded)
 
 def knapsack_dp(weights, values, w):
-    table = [[0 for i in range(len(values))] for i in range(w+1)]
+    table = [[0 for i in range(len(values) + 1)] for i in range(w+1)]
 
-    for i in range(w+1):
-        included = float("-inf")
-        incl_set = []
-        curr = len(values) - 1
-        if weights[curr] <= w:
-            included, incl_set = table[weights[:curr], values[:curr]][ w - weights[curr]]
-            included += values[curr]
-            incl_set += [curr]
+    for weight_i in range(1, w+1):
+        for curr in range(1, len(values) + 1):
+            included = float("-inf")
+            if weights[curr-1] <= weight_i:
+                included = table[weight_i - weights[curr - 1]][curr - 1] + values[curr - 1]
 
-        excluded, excl_set = knapsack_recur(weights[:curr], values[:curr], w)
+            excluded = table[weight_i][curr - 1]
 
-        if included > excluded:
-            return included, incl_set 
-        else:
-            return excluded, excl_set
+            table[weight_i][curr] = max(included, excluded)
 
-    #return max(included, excluded)
+    return table[-1][-1]
 
 weights = [2, 3, 1, 5, 3]
 values = [40, 50, 100, 95, 30]
 print(knapsack_recur(weights, values, 10))
+print(knapsack_dp(weights, values, 10))
