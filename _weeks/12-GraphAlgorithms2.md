@@ -5,7 +5,7 @@ date: 2019-4-4 12:00:00
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
 
-# Mandatory videos: 
+# In class videos: 
 
 ## For Tuesday
 
@@ -33,4 +33,4 @@ Example Problems
 
 # Out: 
 
-Homework Assignment #6 (Due 4/13), Lecture review assignment #11
+Lecture review assignment #11
